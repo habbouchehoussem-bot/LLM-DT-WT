@@ -1,6 +1,6 @@
 # dtllm-ir — reference implementation of a verifiable DT–LLM intermediate representation
 
-| Module | Content | Paper |
+| Module | Content | 
 |---|---|---|
 | `schema/record.schema.json` | JSON Schema of a record | 
 | `ir_ref/bearing.py` | Characteristic frequencies | 
